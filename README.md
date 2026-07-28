@@ -54,4 +54,4 @@ DOS
 venv\Scripts\activate
 streamlit run frontend/app.py
 License
-This proj
+This project is open-source and available under the MIT License.
